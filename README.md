@@ -1,2 +1,3 @@
 # JavaScriptClock
-patika javascript odev-1
+
+![index](/img/ss.gif)
